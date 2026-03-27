@@ -9,7 +9,7 @@ function Projects() {
       category: "Backend",
       desc: "Node.js + MongoDB + HTML + CSS based authentication system.",
       img: "./Authentication_System.PNG",
-      github: "#",
+      github: "https://github.com/SameerInCode/Authentication-System",
       live: "#",
     },
     {
@@ -18,8 +18,8 @@ function Projects() {
       category: "Frontend",
       desc: "Personal portfolio built with React and CSS.",
       img: "./Potfolio.PNG",
-      github: "#",
-      live: "#",
+      github: "https://github.com/SameerInCode/my-portfolio",
+      live: "https://sameer-portfolio-psi.vercel.app/",
     },
     {
       id: 3,
@@ -36,7 +36,7 @@ function Projects() {
       category: "Frontend",
       desc: "Amazon clone UI using HTML, CSS, and JavaScript.",
       img: "./CloneAmazon.PNG",
-      github: "#",
+      github: "https://github.com/SameerInCode/amazon-clone",
       live: "#",
     },
     {
