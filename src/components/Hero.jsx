@@ -13,23 +13,39 @@ function Hero(){
       </div>
 
      <div className="social-links">
-      <a href="" target="_blank" rel="">
+      <a
+        href="https://www.linkedin.com/in/m-sameer-sk-144936307/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <FaLinkedin/>
       </a>
 
-      <a href="" target="_blank" rel="">
+      <a
+        href="https://github.com/SameerInCode"
+        target="_blank"
+        rel="noreferrer"
+      >
         <FaGithub/>
       </a>
 
-      <a href="" target="_blank" rel="">
+      <a
+        href="https://wa.me/923073360721"
+        target="_blank"
+        rel="noreferrer"
+      >
         <FaWhatsapp/>
       </a>
 
-      <a href="" target="_blank" rel="">
+      <a
+        href="https://www.facebook.com/share/1E6NtDiG3A/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <FaFacebook/>
       </a>
 
-      <a href="" target="_blank" rel="">
+      <a href="tel:+923073360721">
         <FaPhoneAlt/>
       </a>
       </div> 
