@@ -27,6 +27,7 @@ function Contact(){
   return(
     <section id="contact">
       <h2>Contact Me</h2>
+      <p> Email: sameerninja009@gmail.com</p>
       <form ref={form} onSubmit={sendEmail}>
         <input type="text" name="user_name" placeholder="Your Name" required />
         <input type="email" name="user_email" placeholder="Your Email" required />
