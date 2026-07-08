@@ -7,21 +7,21 @@ const certifications=[
     title:"Frontend Web Development",
     organization:"Bano Qabil | PITB | Learning Resource Network (UK)",
     duration:"Sep 2024 - Nov 2024",
-    image: "../public/frontend.jpeg"
+    image: "/frontend.jpeg"
   },
   {
     id:2,
     title:"Backend Web Development",
     organization:"Bano Qabil | PITB | Learning Resource Network (UK)",
     duration:"May 2025 - Sep 2025",
-    image: "../public/backend.jpeg"
+    image: "/backend.jpeg"
   },
   {
     id:3,
     title:"Python For Data Scienece",
     organization:"IBM Cognitive Class",
     duration:"May 2026 - June 2026",
-    image: "../public/python.PNG"
+    image: "/python.PNG"
 
   },
 
